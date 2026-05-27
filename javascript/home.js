@@ -5,7 +5,7 @@
                 title: "Cozy Nation",
                 category: "men",
                 price: 100,
-                image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80"
+                image: "/img/boys.jpeg"
             },
             {
                 id: 2,
